@@ -92,7 +92,7 @@
             "base_rate": 240,
             "power": 30
         },
-		{
+        {
             "name": "Water Extractor",
             "key_name": "water-extractor",
             "category": "water",
@@ -114,37 +114,37 @@
             "tier": 2,
             "stack_size": 50
         },
-		{
+        {
             "name": "Versatile Framework",
             "key_name": "versatile-framework",
             "tier": 3,
             "stack_size": 50
         },
-		{
+        {
             "name": "Automated Wiring",
             "key_name": "automated-wiring",
             "tier": 4,
             "stack_size": 50
         },
-		{
+        {
             "name": "Modular Engine",
             "key_name": "modular-engine",
             "tier": 5,
             "stack_size": 50
         },
-		{
+        {
             "name": "Adaptive Control Unit",
             "key_name": "adaptive-control-unit",
             "tier": 5,
             "stack_size": 50
         },
-		{
+        {
             "name": "Copper Sheet",
             "key_name": "copper-sheet",
             "tier": 2,
             "stack_size": 100
         },
-		{
+        {
             "name": "Iron Ore",
             "key_name": "iron-ore",
             "tier": -1,
@@ -336,13 +336,13 @@
             "tier": 5,
             "stack_size": 50
         },
-		{
+        {
             "name": "Heavy Oil Residue",
             "key_name": "heavy-oil-residue",
             "tier": 5,
             "stack_size": 50
         },
-		{
+        {
             "name": "Polymer Resin",
             "key_name": "polymer-resin",
             "tier": 5,
@@ -354,7 +354,7 @@
             "tier": 5,
             "stack_size": 100
         },
-		{
+        {
             "name": "Liquid Biofuel",
             "key_name": "liquid-biofuel",
             "tier": 5,
@@ -366,55 +366,55 @@
             "tier": 5,
             "stack_size": 100
         },
-		{
+        {
             "name": "Petroleum Coke",
             "key_name": "petroleum-coke",
             "tier": 5,
             "stack_size": 200
         },
-		{
+        {
             "name": "Empty Canister",
             "key_name": "empty-canister",
             "tier": 5,
             "stack_size": 100
         },
-		{
+        {
             "name": "Packaged Water",
             "key_name": "packaged-water",
             "tier": 5,
             "stack_size": 100
         },
-		{
+        {
             "name": "Packaged Oil",
             "key_name": "packaged-oil",
             "tier": 5,
             "stack_size": 100
         },
-		{
+        {
             "name": "Packaged Fuel",
             "key_name": "packaged-fuel",
             "tier": 5,
             "stack_size": 100
         },
-		{
+        {
             "name": "Packaged Turbofuel",
             "key_name": "packaged-turbofuel",
             "tier": 5,
             "stack_size": 100
         },
-		{
+        {
             "name": "Packaged Heavy Oil Residue",
             "key_name": "packaged-heavy-oil-residue",
             "tier": 5,
             "stack_size": 100
         },
-		{
+        {
             "name": "Packaged Liquid Biofuel",
             "key_name": "packaged-liquid-biofuel",
             "tier": 5,
             "stack_size": 100
         },
-		{
+        {
             "name": "Water",
             "key_name": "water",
             "tier": 2,
@@ -565,12 +565,12 @@
             "stack_size": 100
         },
         {
-                "name": "Alumina Solution",
-                "key_name": "alumina-solution",
-                "tier": 7,
-                "stack_size": 50
-            },
-		{
+            "name": "Alumina Solution",
+            "key_name": "alumina-solution",
+            "tier": 7,
+            "stack_size": 50
+        },
+        {
             "name": "Aluminum Scrap",
             "key_name": "aluminum-scrap",
             "tier": 7,
@@ -663,7 +663,7 @@
             "time": 30,
             "ingredients": [
                 ["reinforced-iron-plate", 1],
-				["rotor", 1]
+                ["rotor", 1]
             ],
             "product": ["smart-plating", 1]
         },
@@ -679,29 +679,29 @@
             ],
             "product": ["smart-plating", 2]
         },
-		{
+        {
             "name": "Versatile Framework",
             "key_name": "versatile-framework",
             "category": "crafting2",
             "time": 24,
             "ingredients": [
                 ["modular-frame", 1],
-				["steel-beam", 12]
+                ["steel-beam", 12]
             ],
             "product": ["versatile-framework", 2]
         },
-		{
+        {
             "name": "Automated Wiring",
             "key_name": "automated-wiring",
             "category": "crafting2",
             "time": 72,
             "ingredients": [
                 ["stator", 3],
-				["cable", 60]
+                ["cable", 60]
             ],
             "product": ["automated-wiring", 3]
         },
-		{
+        {
             "name": "Alternate: Automated Speed Wiring",
             "key_name": "alt-automated-wiring",
             "category": "crafting3",
@@ -713,32 +713,32 @@
             ],
             "product": ["automated-wiring", 4]
         },
-		{
+        {
             "name": "Modular Engine",
             "key_name": "modular-engine",
             "category": "crafting3",
             "time": 60,
             "ingredients": [
                 ["motor", 2],
-				["rubber", 15],
-				["smart-plating", 2]
+                ["rubber", 15],
+                ["smart-plating", 2]
             ],
             "product": ["modular-engine", 1]
         },
-		{
+        {
             "name": "Adaptive Control Unit",
             "key_name": "adaptive-control-unit",
             "category": "crafting3",
             "time": 120,
             "ingredients": [
                 ["automated-wiring", 15],
-				["circuit-board", 10],
-				["heavy-modular-frame", 2],
-				["computer", 2]
+                ["circuit-board", 10],
+                ["heavy-modular-frame", 2],
+                ["computer", 2]
             ],
             "product": ["adaptive-control-unit", 2]
         },
-		{
+        {
             "name": "Iron Ingot",
             "key_name": "iron-ingot",
             "category": "smelting1",
@@ -960,7 +960,7 @@
             ],
             "product": ["cable", 20]
         },
-		{
+        {
             "name": "Alternate: Coated Cable",
             "key_name": "alt-coated-cable",
             "category": "refining",
@@ -971,7 +971,7 @@
             ],
             "product": ["cable", 9]
         },
-		{
+        {
             "name": "Alternate: Quickwire Cable",
             "key_name": "alt-quickwire-cable",
             "category": "crafting2",
@@ -992,7 +992,7 @@
             ],
             "product": ["biomass", 5]
         },
-		{
+        {
             "name": "Concrete",
             "key_name": "concrete",
             "category": "crafting1",
@@ -1002,7 +1002,7 @@
             ],
             "product": ["concrete", 1]
         },
-		{
+        {
             "name": "Alternate: Fine Concrete",
             "key_name": "alt-concrete",
             "category": "crafting2",
@@ -1013,7 +1013,7 @@
             ],
             "product": ["concrete", 10]
         },
-		{
+        {
             "name": "Alternate: Rubber Concrete",
             "key_name": "alt-rubber-concrete",
             "category": "crafting2",
@@ -1024,7 +1024,7 @@
             ],
             "product": ["concrete", 9]
         },
-		{
+        {
             "name": "Alternate: Wet Concrete",
             "key_name": "alt-wet-concrete",
             "category": "refining",
@@ -1135,7 +1135,7 @@
             ],
             "product": ["steel-pipe", 2]
         },
-		{
+        {
             "name": "Copper Sheet",
             "key_name": "copper-sheet",
             "category": "crafting1",
@@ -1145,7 +1145,7 @@
             ],
             "product": ["copper-sheet", 1]
         },
-		{
+        {
             "name": "Alternate: Steamed Copper Sheet",
             "key_name": "alt-steamed-copper-sheet",
             "category": "refining",
@@ -1189,7 +1189,7 @@
             ],
             "product": ["reinforced-iron-plate", 3]
         },
-		{
+        {
             "name": "Alternate: Adhered Iron Plate",
             "key_name": "alt-adhered-iron-plate",
             "category": "crafting2",
@@ -1366,7 +1366,7 @@
             ],
             "product": ["circuit-board", 7]
         },
-		{
+        {
             "name": "Alternate: Electrode Circuit Board",
             "key_name": "alt-electrode-circuit-board",
             "category": "crafting2",
@@ -1408,7 +1408,7 @@
             ],
             "product": ["plastic", 12]
         },
-		{
+        {
             "name": "Residual Plastic",
             "key_name": "residual-plastic",
             "category": "refining",
@@ -1430,7 +1430,7 @@
             ],
             "product": ["liquid-biofuel", 4]
         },
-		{
+        {
             "name": "Fuel",
             "key_name": "fuel",
             "category": "refining",
@@ -1462,17 +1462,17 @@
             ],
             "product": ["turbofuel", 4]
         },
-		{
+        {
             "name": "Empty Canister",
             "key_name": "empty-canister",
             "category": "crafting1",
             "time": 4,
             "ingredients": [
                 ["plastic", 2]
-				],
+                ],
             "product": ["empty-canister", 4]
         },
-		{
+        {
             "name": "Packaged Water",
             "key_name": "packaged-water",
             "category": "refining",
@@ -1483,7 +1483,7 @@
             ],
             "product": ["packaged-water", 2]
         },
-		{
+        {
             "name": "Packaged Oil",
             "key_name": "packaged-oil",
             "category": "refining",
@@ -1494,7 +1494,7 @@
             ],
             "product": ["packaged-oil", 2]
         },
-		{
+        {
             "name": "Packaged Heavy Oil Residue",
             "key_name": "packaged-heavy-oil-residue",
             "category": "refining",
@@ -1505,7 +1505,7 @@
             ],
             "product": ["packaged-heavy-oil-residue", 2]
         },
-		{
+        {
             "name": "Packaged Fuel",
             "key_name": "packaged-fuel",
             "category": "refining",
@@ -1516,7 +1516,7 @@
             ],
             "product": ["packaged-fuel", 2]
         },
-		{
+        {
             "name": "Alternate: Diluted Packaged Fuel",
             "key_name": "alt-diluted-packaged-fuel",
             "category": "refining",
@@ -1527,7 +1527,7 @@
             ],
             "product": ["packaged-fuel", 2]
         },
-		{
+        {
             "name": "Residual Fuel",
             "key_name": "fuel",
             "category": "refining",
@@ -1537,7 +1537,7 @@
             ],
             "product": ["fuel", 4]
         },
-		{
+        {
             "name": "Packaged Turbofuel",
             "key_name": "packaged-turbofuel",
             "category": "refining",
@@ -1548,7 +1548,7 @@
             ],
             "product": ["packaged-turbofuel", 2]
         },
-		{
+        {
             "name": "Packaged Liquid Biofuel",
             "key_name": "packaged-liquid-biofuel",
             "category": "refining",
@@ -1559,7 +1559,7 @@
             ],
             "product": ["packaged-liquid-biofuel", 2]
         },
-		{
+        {
             "name": "Rubber",
             "key_name": "rubber",
             "category": "refining",
@@ -1569,7 +1569,7 @@
             ],
             "product": ["rubber", 2]
         },
-		{
+        {
             "name": "Residual Rubber",
             "key_name": "residual-rubber",
             "category": "refining",
@@ -1581,29 +1581,29 @@
             "product": ["rubber", 2]
         },
         {
-                "name": "Alternate: Recycled Rubber",
-                "key_name": "alt-recycled-rubber",
-                "category": "refining",
-                "time": 12,
-                "ingredients": [
-                    ["plastic", 6],
-                    ["fuel", 6]
-                ],
-                "product": ["rubber", 12]
-            },
+            "name": "Alternate: Recycled Rubber",
+            "key_name": "alt-recycled-rubber",
+            "category": "refining",
+            "time": 12,
+            "ingredients": [
+                ["plastic", 6],
+                ["fuel", 6]
+            ],
+            "product": ["rubber", 12]
+        },
         {
-                    "name": "Alternate: Flexible Framework",
-                    "key_name": "alt-flexible-framework",
-                    "category": "crafting3",
-                    "time": 16,
-                    "ingredients": [
-                        ["modular-frame", 1],
-                        ["steel-beam", 6],
-                        ["rubber", 8]
-                    ],
-                    "product": ["versatile-framework", 2]
-            },
-		{
+            "name": "Alternate: Flexible Framework",
+            "key_name": "alt-flexible-framework",
+            "category": "crafting3",
+            "time": 16,
+            "ingredients": [
+                ["modular-frame", 1],
+                ["steel-beam", 6],
+                ["rubber", 8]
+            ],
+            "product": ["versatile-framework", 2]
+        },
+        {
             "name": "Petroleum Coke",
             "key_name": "petroleum-coke",
             "category": "refining",
@@ -1639,7 +1639,7 @@
             ],
             "product": ["heavy-modular-frame", 3]
         },
-		{
+        {
             "name": "Alternate: Heavy Flexible Frame",
             "key_name": "alt-heavy-flexible-frame",
             "category": "crafting3",
@@ -1698,7 +1698,7 @@
             ],
             "product": ["caterium-ingot", 1]
         },
-		{
+        {
             "name": "Alternate: Pure Caterium Ingot",
             "key_name": "alt-pure-caterium-ingot",
             "category": "refining",
@@ -1789,7 +1789,7 @@
             ],
             "product": ["fabric", 1]
         },
-		{
+        {
             "name": "Alternate: Polyester Fabric",
             "key_name": "alt-polyester-fabric",
             "category": "refining",
@@ -2002,7 +2002,7 @@
             ],
             "product": ["silica", 7]
         },
-		{
+        {
             "name": "Alumina Solution",
             "key_name": "alumina-solution",
             "category": "refining",
@@ -2013,7 +2013,7 @@
             ],
             "product": ["alumina-solution", 8]
         },
-		{
+        {
             "name": "Aluminum Scrap",
             "key_name": "aluminum-scrap",
             "category": "refining",
@@ -2024,7 +2024,7 @@
             ],
             "product": ["aluminum-scrap", 6]
         },
-		{
+        {
             "name": "Alternate: Electrode-Aluminum Scrap",
             "key_name": "alt-aluminum-scrap",
             "category": "refining",
@@ -2046,7 +2046,7 @@
             ],
             "product": ["aluminum-ingot", 4]
         },
-		{
+        {
             "name": "Alternate: Pure Aluminum Ingot",
             "key_name": "alt-aluminum-ingot",
             "category": "smelting1",
@@ -2300,7 +2300,7 @@
             "key_name": "uranium",
             "category": "mineral"
         },
-		    {
+        {
             "key_name": "water",
             "category": "water"
         }
