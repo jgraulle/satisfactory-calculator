@@ -1,0 +1,21 @@
+Demo available on https://jgraulle.github.io/satisfactory-calculator/calc.html.
+
+Satisfactory Calculator for Update 7 by jgraulle
+
+Early Access - v0.7.1.1 Build 211839
+
+The code was originally created by KirkMcdonald on Github then forked by frslm and Legorin and me. Most the recipes of 0.3, should work. Recipes of 0.7 are work in progress. However, due to the way the code works it only displays single outputs, so for all the dual output recipes, it will only show the main output.
+
+The source are available on <a href="https://github.com/jgraulle/satisfactory-calculator/commits/master">Github Page</a>.
+
+There is a bug where if you select both the Recycled Plastic and Recycled Rubber alt recipes the website will crash. I cannot fix this, so select either one or the other.
+
+I only updated the json file which contains all the recipes. The original creaters message appears below.
+
+This calculator is copyright 2019 Kirk McDonald. It is licensed under the Apache License 2.0, and its source may be <a href="https://github.com/KirkMcDonald/satisfactory-calculator">found on github, here</a>.
+
+This calculator is based on my <a href="https://kirkmcdonald.github.io/calc.html">Factorio calculator</a>, and was created primarily to see what the project would look like if rewritten from scratch, applying lessons learned over the years spent developing the original.
+
+Satisfactory is a simpler game for which to calculate ratios than Factorio. This simplicity means that it is easier for this calculator to support certain features that would be very difficult to add to the Factorio calculator, but which I have wanted to implement for a long time. This can be seen in the use of a <a href="https://en.wikipedia.org/wiki/Sankey_diagram">Sankey diagram</a> in the visualizer, among other things.
+
+If you wish to support the calculator, please consider donating to <a href="https://www.patreon.com/kirkmcdonald">my Patreon campaign</a>. Any amount helps. And thank you!
